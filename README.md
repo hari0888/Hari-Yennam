@@ -1,12 +1,12 @@
 
 <h3>👋 Hey there! I'm Hari Kumar Reddy Yennam</h3>
 __________________________________________________________________________________________________
-<h3>🚀 About Me</h3><br/>
+<h2>🚀 About Me</h2><br/>
 <p>I am a Full stack Developer 3+ years of experience in designing, developing sclable web applications.</br>
 I specialize in React, Node.js, Angular, SpringBoot, Java and Python.</br>
 I enjoy building end-to-end solutions that improve user experience, optimize workflows, and drive digital transformation.</p>
 
-🔹 Currently: Working at Resurge-technoliges as a contract Full Stack developer at Qualcomm .<br/>
+🔹 Currently: Working at Resurge-technologies as a contract Full Stack developer at Qualcomm .<br/>
 🔹 Previously: Worked at cognizant as a Full Stack Developer, client: Thomson Reuters.
 _________________________________________________________________________________________________________
 
@@ -61,7 +61,15 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 _________________________________________________________________________________________________
-<h3>📬Connect with Me</h3>
+
+<h2>What I'm Learning</h2>
+
+<h3>⭐ Advanced CI/CD Automation</h3>
+<h3>⭐ Microservices with Spring Boot & Docker</h3>
+<h3>⭐ Cloud Design Patterns (AWS & Azure)</h3>
+<h3>⭐ System Architecture & Scalability</h3>
+_________________________________________________________________________________________________
+<h2>📬Connect with Me</h2>
 🔗 Portfolio: https://github.com/hari0888/Hari-Yennam.git </br>
 🔗 LinkedIn: www.linkedin.com/in/hari-kumar-reddy-yennam-457a9620a </br>
 🔗 Email: harireddy9408@gmail.com </br>
