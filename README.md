@@ -6,7 +6,7 @@ ________________________________________________________________________________
 I specialize in React, Node.js, Angular, SpringBoot, Java and Python.</br>
 I enjoy building end-to-end solutions that improve user experience, optimize workflows, and drive digital transformation.</p>
 
-🔹 Currently: Pursuing my M.S. in Information technology & management at Indiana Wesleyan University.<br/>
+🔹 Currently: Working at Resurge-technoliges as a contract Full Stack developer at Qualcomm .<br/>
 🔹 Previously: Worked at cognizant as a Full Stack Developer, client: Thomson Reuters.
 _________________________________________________________________________________________________________
 
