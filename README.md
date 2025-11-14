@@ -1,6 +1,6 @@
 
 <h3>👋 Hey there! I'm Hari Kumar Reddy Yennam</h3>
-______________________________________________________________________________________________________________
+_______________________________________________________________________________________________________
 <h3>🚀 About Me</h3><br/>
 <p>I am a Full stack Developer 3+ years of experience in designing, developing sclable web applications.</br>
 I specialize in React, Node.js, Angular, SpringBoot, Java and Python.</br>
@@ -8,7 +8,7 @@ I enjoy building end-to-end solutions that improve user experience, optimize wor
 
 🔹 Currently: Pursuing my M.S. in Information technology & management at Indiana Wesleyan University.<br/>
 🔹 Previously: Worked at cognizant as a Full Stack Developer, client: Thomson Reuters.
-______________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 <h2>🛠️ Technologies & Tools</h2>
 
@@ -60,7 +60,7 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-_____________________________________________________________________________________________________________
+____________________________________________________________________________________________________
 <h3>📬Connect with Me</h3>
 🔗 Portfolio: https://github.com/hari0888/Hari-Yennam.git </br>
 🔗 LinkedIn: www.linkedin.com/in/hari-kumar-reddy-yennam-457a9620a </br>
